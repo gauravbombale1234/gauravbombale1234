@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bombale</h1>
-<h3 align="center">Aspiring Data Scientist | Computer Engineering | Honours in Data Science | Python | Machine Learning | SQL</h3>
+<h3 align="center">Data Science Intern @eGlobalDoctors LLC USA  | Computer Engineering | Honours in Data Science | Python | Machine Learning | SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbombale1234&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbombale1234" /> </p>
 
